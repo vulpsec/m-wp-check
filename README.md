@@ -5,7 +5,7 @@ Toola verdiğiniz WordPress şifre,username ve site bulunan dosyadaki username v
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-check
+git clone https://github.com/morbius-os/m-check
 
 cd m-wp-check
 
